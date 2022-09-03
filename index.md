@@ -2,13 +2,12 @@
 layout: default
 ---
 
-## About Me
+## 关于我
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+欢迎来到我的主页！我目前是一名算法工程师，应用人工智能技术到医疗领域。我比较喜欢理解算法的原理，而不是像操作工一样的应用它。理解算法意味着
+会涉及大量的数学，而我的记忆力实在有限，所以我打算将它们记录在这里。
 
 ## Research Interest
 

@@ -3,13 +3,13 @@ url: "https://yuanzhen214.github.io"
 baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
 footer_url: " "
-footer_text: "返回"
+footer_text: "返回顶端"
 
 sass:
     style: compressed

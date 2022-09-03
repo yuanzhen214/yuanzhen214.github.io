@@ -1,4 +1,4 @@
-title: Researcher
+title: YZ's homepage
 url: "https://yuanzhen214.github.io"
 baseurl: "/"
 
@@ -7,18 +7,18 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
+footer_url: "https://yuanzhen214.github.com"
+footer_text: "欢迎来到我的主页"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "记录"
+#    link: "/"
+#  - name: "Resume"
+#    link: "resume.pdf"
+#  - name: "Contact"
+#    link: "contact"

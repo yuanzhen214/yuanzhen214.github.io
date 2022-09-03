@@ -7,16 +7,16 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://yuanzhen214.github.com"
-footer_text: "欢迎来到我的主页"
+footer: yes
+footer_url: " "
+footer_text: "返回"
 
 sass:
     style: compressed
     sass_dir: _sass
 
-nav:
- - name: "记录"
+# nav:
+#  - name: "记录"
 #    link: "/"
 #  - name: "Resume"
 #    link: "resume.pdf"

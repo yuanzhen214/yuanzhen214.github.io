@@ -3,7 +3,7 @@ url: "https://yuanzhen214.github.io"
 baseurl: "/"
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+# ins_logo: "./bits-logo.png"  ## 顶端图标
 
 tracking_id: #
 
@@ -15,10 +15,10 @@ sass:
     style: compressed
     sass_dir: _sass
 
-# nav:
+nav:
 #  - name: "记录"
 #    link: "/"
 #  - name: "Resume"
 #    link: "resume.pdf"
-#  - name: "Contact"
-#    link: "contact"
+ - name: "Contact"
+   link: "contact"

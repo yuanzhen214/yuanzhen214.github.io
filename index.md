@@ -9,6 +9,8 @@ layout: default
 欢迎来到我的主页！我目前是一名算法工程师，应用人工智能技术到医疗领域。我比较喜欢理解算法的原理，而不是像操作工一样的应用它。理解算法意味着
 会涉及大量的数学，而我的记忆力实在有限，所以我打算将它们记录在这里。
 
+---
+
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
